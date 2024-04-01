@@ -21,13 +21,13 @@ Results
 The trained model achieves an accuracy of approximately 84% on the testing set. Sample predictions and corresponding images are visualized to showcase the model's performance.
 
 Dependencies
-Python 3
-TensorFlow
-Keras
+Python 3,
+TensorFlow,
+Keras,
 NumPy
-OpenCV
-Matplotlib
-Pandas
+OpenCV,
+Matplotlib,
+Pandas.
 How to Use
 Clone this repository to your local machine.
 Install the dependencies listed in the requirements.txt file.
