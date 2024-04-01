@@ -5,6 +5,7 @@ This repository contains code for a deep learning model that performs emotion re
 Overview
 Emotion recognition is a crucial aspect of human-computer interaction and affective computing. In this project, we leverage CNNs to classify facial images into six emotion categories: Anger, Disgust, Fear, Happiness, Sadness, and Surprise.
 
+
 Dataset
 The dataset used in this project is the eINTERFACE Image Dataset, which contains facial images labeled with six different emotions. The dataset is divided into training and testing sets, with images resized to 128x128 pixels for model training. https://www.kaggle.com/datasets/ameyamote030/einterface-image-dataset?rvi=1
 
