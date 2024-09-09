@@ -22,6 +22,7 @@ Results
 The trained model achieves an accuracy of approximately 84% on the testing set. Sample predictions and corresponding images are visualized to showcase the model's performance.
 
 Dependencies
+
 Python 3,
 TensorFlow,
 Keras,
