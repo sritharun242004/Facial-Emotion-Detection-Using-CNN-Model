@@ -21,7 +21,7 @@ To utilize the trained model for emotion recognition on new images, load the mod
 Results
 The trained model achieves an accuracy of approximately 84% on the testing set. Sample predictions and corresponding images are visualized to showcase the model's performance.
 
-Dependencies
+Dependencies:
 
 Python 3,
 TensorFlow,
